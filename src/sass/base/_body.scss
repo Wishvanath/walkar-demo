@@ -1,0 +1,35 @@
+body {
+	font-family: $font-base;
+	padding-top: 70px;
+}
+
+.full-screen {
+	padding: 8rem 0;
+}
+
+.small-text {
+    color: $body-font-color;
+    font-size: $small-font-size;
+    font-weight: $font-weight-bold;
+    padding: 8px 16px;
+    border-radius: 50px;
+    letter-spacing: 0.2px;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+	li {
+		list-style: none;
+	}
+}
+
+a {
+	font-size: $link-font-size;
+	font-weight: $font-weight-normal;
+	text-decoration: none !important;
+	@include transition-effect;
+	&:hover {
+		color: $main-color !important;
+	}
+}
