@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/walkar-demo/static/css/main.6f59bde3.chunk.css",
+    "main.js": "/walkar-demo/static/js/main.0c6090d9.chunk.js",
+    "main.js.map": "/walkar-demo/static/js/main.0c6090d9.chunk.js.map",
+    "runtime-main.js": "/walkar-demo/static/js/runtime-main.9833b054.js",
+    "runtime-main.js.map": "/walkar-demo/static/js/runtime-main.9833b054.js.map",
+    "static/js/2.295acbd1.chunk.js": "/walkar-demo/static/js/2.295acbd1.chunk.js",
+    "static/js/2.295acbd1.chunk.js.map": "/walkar-demo/static/js/2.295acbd1.chunk.js.map",
+    "index.html": "/walkar-demo/index.html",
+    "precache-manifest.8d7939020e6715c3b3785f385935930a.js": "/walkar-demo/precache-manifest.8d7939020e6715c3b3785f385935930a.js",
+    "service-worker.js": "/walkar-demo/service-worker.js",
+    "static/css/main.6f59bde3.chunk.css.map": "/walkar-demo/static/css/main.6f59bde3.chunk.css.map",
+    "static/js/2.295acbd1.chunk.js.LICENSE.txt": "/walkar-demo/static/js/2.295acbd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9833b054.js",
+    "static/js/2.295acbd1.chunk.js",
+    "static/css/main.6f59bde3.chunk.css",
+    "static/js/main.0c6090d9.chunk.js"
+  ]
+}
