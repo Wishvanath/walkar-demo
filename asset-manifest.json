@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/walkar-demo/static/css/main.6f59bde3.chunk.css",
-    "main.js": "/walkar-demo/static/js/main.0c6090d9.chunk.js",
-    "main.js.map": "/walkar-demo/static/js/main.0c6090d9.chunk.js.map",
+    "main.js": "/walkar-demo/static/js/main.ce197c18.chunk.js",
+    "main.js.map": "/walkar-demo/static/js/main.ce197c18.chunk.js.map",
     "runtime-main.js": "/walkar-demo/static/js/runtime-main.9833b054.js",
     "runtime-main.js.map": "/walkar-demo/static/js/runtime-main.9833b054.js.map",
-    "static/js/2.295acbd1.chunk.js": "/walkar-demo/static/js/2.295acbd1.chunk.js",
-    "static/js/2.295acbd1.chunk.js.map": "/walkar-demo/static/js/2.295acbd1.chunk.js.map",
+    "static/js/2.cf5ffd76.chunk.js": "/walkar-demo/static/js/2.cf5ffd76.chunk.js",
+    "static/js/2.cf5ffd76.chunk.js.map": "/walkar-demo/static/js/2.cf5ffd76.chunk.js.map",
     "index.html": "/walkar-demo/index.html",
-    "precache-manifest.7f36a26076e7eb3bb75d89edb222b9be.js": "/walkar-demo/precache-manifest.7f36a26076e7eb3bb75d89edb222b9be.js",
+    "precache-manifest.28399234d84dc5472cca8c601bea82b0.js": "/walkar-demo/precache-manifest.28399234d84dc5472cca8c601bea82b0.js",
     "service-worker.js": "/walkar-demo/service-worker.js",
     "static/css/main.6f59bde3.chunk.css.map": "/walkar-demo/static/css/main.6f59bde3.chunk.css.map",
-    "static/js/2.295acbd1.chunk.js.LICENSE.txt": "/walkar-demo/static/js/2.295acbd1.chunk.js.LICENSE.txt"
+    "static/js/2.cf5ffd76.chunk.js.LICENSE.txt": "/walkar-demo/static/js/2.cf5ffd76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9833b054.js",
-    "static/js/2.295acbd1.chunk.js",
+    "static/js/2.cf5ffd76.chunk.js",
     "static/css/main.6f59bde3.chunk.css",
-    "static/js/main.0c6090d9.chunk.js"
+    "static/js/main.ce197c18.chunk.js"
   ]
 }
